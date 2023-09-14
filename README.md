@@ -1,10 +1,10 @@
 <p align="center"><img src="preview-it.jpg?v=3" /></p>
-<h1 align="center">language-it</h1>
+<h1 align="center">language-fr</h1>
 <p align="center">Italian translations for WonderCMS (by Giacomo Margarito)</p>
 
 <br><br>
 
-This plugin adds Italian translations to the WonderCMS admin area, based on "https://github.com/RenaudILTIS/translation-french" . Plugin author: Renaud ILTIS.
+This plugin adds Italian translations to the WonderCMS admin area, based on "https://github.com/RenaudILTIS/translation-french" . Plugin author: Giacomo Margarito. Original Author: Renauld Iltis.
 
 
 ## How to use
